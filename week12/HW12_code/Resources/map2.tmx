@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="24" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="mapp" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="風色幻想5-部份素材-1473-1_爱给网_2gei_com.png" width="64" height="64"/>
+ </tileset>
+ <layer name="块层 1" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztz7ERACAMAzEH2H9msoUbFX9fa5KcbUq/2yu+5ebn5+fn5+fn5+dv/ANalAeB
+  </data>
+ </layer>
+</map>
